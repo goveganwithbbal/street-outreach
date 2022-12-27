@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="19in"
+   height="13in"
+   viewBox="0 0 482.60001 330.2"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="dog-fight.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="dog-fight.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="777"
+     inkscape:cy="648"
+     inkscape:window-width="1512"
+     inkscape:window-height="922"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g269" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="canvas"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:2.13885;stroke-opacity:0.952941"
+       id="rect323"
+       width="482.60001"
+       height="330.20001"
+       x="-7.1054274e-15"
+       y="0"
+       inkscape:label="paper" />
+    <rect
+       style="fill:#000000;stroke-width:1.0633;fill-opacity:1"
+       id="rect1514"
+       width="457.20001"
+       height="304.79999"
+       x="12.7"
+       y="12.7"
+       inkscape:label="black-border" />
+    <rect
+       style="fill:#66d4cf;fill-opacity:1;stroke-width:2.68575"
+       id="rect1676"
+       width="444.5"
+       height="292.10001"
+       x="19.049999"
+       y="19.049999"
+       inkscape:label="aqua-blue-background" />
+  </g>
+  <g
+     inkscape:label="text"
+     inkscape:groupmode="layer"
+     id="g269">
+    <g
+       id="g316"
+       transform="translate(0,72.644)"
+       inkscape:label="question">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.2778px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="70.549576"
+         y="26.257357"
+         id="text255"
+         inkscape:label="would-you-vote"><tspan
+           sodipodi:role="line"
+           id="tspan253"
+           style="font-size:35.2778px;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           x="70.549576"
+           y="26.257357"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">WOULD  YOU  VOTE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.2776px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="241.27545"
+         y="79.952805"
+         id="text259"
+         inkscape:label="in-favour-of-making"><tspan
+           sodipodi:role="line"
+           id="tspan257"
+           style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+           x="241.27545"
+           y="79.952805">IN  FAVOUR  OF  MAKING</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.2777px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="142.45876"
+         y="133.64848"
+         id="text263"
+         inkscape:label="dog-fight"><tspan
+           sodipodi:role="line"
+           id="tspan261"
+           style="text-align:start;text-anchor:start;stroke-width:0.5;stroke-dasharray:none"
+           x="142.45876"
+           y="133.64848">DOG FIGHT</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.2777px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+         x="172.29826"
+         y="184.50328"
+         id="text267"><tspan
+           sodipodi:role="line"
+           id="tspan265"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
+           x="172.29826"
+           y="184.50328">LEGAL?</tspan></text>
+    </g>
+  </g>
+</svg>

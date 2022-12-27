@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="19in"
+   height="13in"
+   viewBox="0 0 482.60001 330.2"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="dog-fight.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="plain-question.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="765"
+     inkscape:cy="653"
+     inkscape:window-width="1512"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1675" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Canvas"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <g
+       id="g911"
+       inkscape:label="background"
+       sodipodi:insensitive="true">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect298"
+         width="482.60001"
+         height="330.20001"
+         x="2.9976654e-06"
+         y="2.9976654e-06"
+         inkscape:label="paper"
+         sodipodi:insensitive="true" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke-width:1.0633"
+         id="rect1514"
+         width="457.20001"
+         height="304.79999"
+         x="12.7"
+         y="12.7"
+         inkscape:label="border"
+         sodipodi:insensitive="true" />
+      <rect
+         style="fill:#ff375f;fill-opacity:1;stroke-width:2.68575"
+         id="rect1676"
+         width="444.5"
+         height="292.10001"
+         x="19.049999"
+         y="19.049999"
+         inkscape:label="red-background"
+         sodipodi:insensitive="true" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Text"
+     inkscape:groupmode="layer"
+     id="g1675">
+    <g
+       id="g1685"
+       inkscape:label="question">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.2777px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+         x="131.65248"
+         y="97.364578"
+         id="text1661"
+         inkscape:label="why-do-we"><tspan
+           sodipodi:role="line"
+           id="tspan1659"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.5;stroke-dasharray:none"
+           x="131.65248"
+           y="97.364578">WHY DO WE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.2777px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="47.796158"
+         y="151.06018"
+         id="text1665"
+         inkscape:label="purchase-someone"><tspan
+           sodipodi:role="line"
+           id="tspan1663"
+           style="stroke-width:0.5"
+           x="47.796158"
+           y="151.06018">PURCHASE SOMEONE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.2777px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="104.85548"
+         y="204.75578"
+         id="text1669"
+         inkscape:label="whom-we-are"><tspan
+           sodipodi:role="line"
+           id="tspan1667"
+           style="stroke-width:0.5"
+           x="104.85548"
+           y="204.75578">WHOM WE ARE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:35.2777px;font-family:Inter;-inkscape-font-specification:'Inter Heavy';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+         x="91.190681"
+         y="258.45139"
+         id="text1673"
+         inkscape:label="going-to-love"><tspan
+           sodipodi:role="line"
+           id="tspan1671"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.5"
+           x="91.190681"
+           y="258.45139">GOING TO LOVE?</tspan></text>
+    </g>
+  </g>
+</svg>
