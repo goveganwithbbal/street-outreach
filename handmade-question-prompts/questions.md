@@ -47,3 +47,6 @@
 43. What's the hidden cost of milk?
 44. What's wrong with sexual slavery?
 45. What should we do about the 'stray' cows pooping all over the city?
+46. Pick one: Dog meat or Chicken meat?
+47. Which animal is the tastiest?
+48. How should we punish animal cruelty?
