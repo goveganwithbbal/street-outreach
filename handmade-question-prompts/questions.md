@@ -50,3 +50,5 @@
 46. Pick one: Dog meat or Chicken meat?
 47. Which animal is the tastiest?
 48. How should we punish animal cruelty?
+49. What's wrong with animal cruelty?
+50. What's wrong with veganism?
